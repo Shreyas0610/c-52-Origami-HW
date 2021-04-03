@@ -1,0 +1,83 @@
+.hamburger{
+    text-decoration: none;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Georgia;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+}
+
+.origami {
+    border-radius: 20px;
+    background-color: white;
+    width:310px;
+    font-family: fantasy;
+    padding: 30px;
+    margin: 25px;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px; 
+}
+
+.OrigamiAnimal{
+    display: flex;
+    justify-content: center;
+}
+
+.OrigamiAnimal{
+    display: flex;
+    justify-content: center;
+}
+
+.WolfText{
+    text-align: center;
+}
+
+.SnakeText{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header h3{
+    text-align: center;
+}
+
+.header p{
+    text-align: center;
+}
+
+a:link{
+    color:turquoise;
+}
+
+a:visited{
+    color: rgb(1, 178, 248);
+}
+
+.origami:hover{
+    transform:scale(1,2);
+}
+
+.OrigamiAnimal ul{
+    position: absolute;
+}
+
+.OrigamiAnimal img{
+    position: relative;
+}
